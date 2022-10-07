@@ -1,0 +1,38 @@
+ h1{
+            color: darkmagenta;
+        }
+        body{
+            background-color: darkgray;
+        }
+        h1{
+            
+        }
+        .muneeb{
+            background-color: rgb(14, 16, 139);
+        }
+        .metaverse_center{
+            margin-left: 600px;
+        }
+        .search{
+            margin-left: 1000px;
+        }
+        .row{
+            display: flex;
+        }
+        .nftb , .meta {
+            background-color: rgb(161, 185, 235);
+            color: black;
+        }
+        .row{
+            margin: 60px;
+        }
+        .fbutton{
+           position:fixed;
+           right:0px;
+           bottom:0px;
+           opacity: 0.5;
+           width:150px;
+           height:50px;
+           border-radius: 5px;
+           border-width: 1px;
+        }
